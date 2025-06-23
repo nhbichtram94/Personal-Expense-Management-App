@@ -42,9 +42,9 @@ flutter run
 Yêu cầu: đã cài Flutter SDK và cấu hình thiết bị giả lập hoặc điện thoại thật.
 # Tác giả
 Nguyễn Hoàng Bích Trâm
-📧 Email: [nhbichtram94@gmail.com](mailto:nhbichtram94@gmail.com)
-🌐 GitHub: [@nhbichtram94](https://github.com/nhbichtram94)
-# 📄 License
+Email: [nhbichtram94@gmail.com](mailto:nhbichtram94@gmail.com)
+GitHub: [@nhbichtram94](https://github.com/nhbichtram94)
+# License
 Dự án sử dụng giấy phép MIT.
 Bạn được phép sử dụng, chỉnh sửa và phân phối với điều kiện giữ nguyên thông tin bản quyền.
 1. Tạo file `README.md` tại thư mục gốc
